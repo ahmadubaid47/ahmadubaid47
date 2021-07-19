@@ -8,15 +8,13 @@
 
 - 🔭 visit My  **[Website](https://ahmadubaidapp.web.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I have in depth Knowledge of Programming Concepts *OOP , DSA, Web , AOOP*
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 i am Proficent Frnotend Web Developer
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 📫 How to reach me *ahmadubaid089@gmail.com*
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ i am opem Source Contributer
 
 ## 🚀 Languages and Tools:
 
