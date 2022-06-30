@@ -8,9 +8,9 @@
 
 - 🔭 visit My  **[Website](https://ahmadubaidapp.web.app/)**
 
-- 🌱 I have in depth Knowledge of Programming Concepts *OOP , DSA, Web , AOOP*
+- 🌱 I have in depth Knowledge of Adobe xd , Figma html css and javaScript
 
-- 👯 i am Proficent Frnotend Web Developer
+- 👯 i am Proficent UI/UX Designer And Frontend Developer
 
 - 📫 How to reach me *ahmadubaid089@gmail.com*
 
