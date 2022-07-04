@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmad Ubaid</h1>
-<h3 align="center">I'm a passionate UI/UX Designer from Pakistan.</h3>
+<h3 align="center">I'm a passionate FULL STACK WEB DESIGN AND DEVELOPER from Pakistan.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 visit My  **[Website](https://ahmadubaidapp.web.app/)**
 
-- 🌱 I have in depth Knowledge of Adobe xd , Figma html css and javaScript
+- 🌱 I have in depth Knowledge of Web UI Designing , Frontend Development 
 
 - 👯 i am Proficent UI/UX Designer And Frontend Developer
 
